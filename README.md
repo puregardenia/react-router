@@ -1,3 +1,7 @@
+[中文教程地址](http://hubwiz.com/course/5708a1995fd193d76fcc7147/)
+
+[仓库地址](https://github.com/reactjs/react-router-tutorial)
+
 React Router Tutorial
 =====================
 

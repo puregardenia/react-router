@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --inline --content-base ."
+    "start": "webpack-dev-server --inline --content-base . --history-api-fallback",
+    "start-old": "webpack-dev-server --inline --content-base ."
   },
   "author": "",
   "license": "ISC",
